@@ -3,6 +3,9 @@ import pygame
 import time
 import numpy
 
+
+#Das ist ein Test und kann wieder gelöscht werden
+
 WIDTH = 1200
 HEIGHT = 700
 GRAVITY = 2.5
